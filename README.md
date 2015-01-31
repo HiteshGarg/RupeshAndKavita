@@ -1,6 +1,6 @@
-shishirandkanika
+Rupesh and Kavita
 =============
 
-My humble wedding website
+My sister's humble wedding website
 
-Credits : https://github.com/narenst/shaluandnaren
+Credits : https://github.com/solitaryreaper/shishirandkanika
